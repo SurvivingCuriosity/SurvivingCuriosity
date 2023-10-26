@@ -3,7 +3,7 @@ Desarrollador **Frontend** con React
 
 ### Perfil técnico
 - :deciduous_tree: Experiencia en gestión global del estado con **Redux**
-- :hibiscus: Diseño de interfaces con **CSS puro** y **Tailwind** junto con **StoryBook**
+- :hibiscus: Diseño de interfaces con **CSS**, **Tailwind** y **StoryBook**
 - :construction_worker: Actualmente trabajando con **React** y **Electron**
 - :bar_chart: Conocimientos de Backend (**Node** , **Express**, **MongoDB**)
 
